@@ -135,7 +135,6 @@ function CandidateForm() {
 
           <footer>
             <p>
-              <img src={warningIcon} alt="Aviso importante" />
               Importante! <br />
               Preencha todos os dados
             </p>
