@@ -134,10 +134,7 @@ function CandidateForm() {
           </fieldset>
 
           <footer>
-            <p>
-              Importante! <br />
-              Preencha todos os dados
-            </p>
+            <button type="reset">Cancelar</button>
             <button type="submit">Salvar cadastro</button>
           </footer>
         </form>
