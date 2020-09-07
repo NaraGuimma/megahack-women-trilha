@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Candidata 1",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Desenvolvimento FullStack",
+    "bio": "Candidata 1"
+  },
+  {
+    "name": "Candidata 2",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Desenvolvimento Front-end",
+    "bio": "Candidata 2"
+  },
+  {
+    "name": "Candidata 3",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Desenvolvimento Back-end",
+    "bio": "Candidata 3"
+  },
+  {
+    "name": "Candidata 4",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Desenvolvimento FullStack",
+    "bio": "Candidata 4"
+  },
+  {
+    "name": "Candidata 5",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Analista de dados",
+    "bio": "Candidata 5"
+  },
+  {
+    "name": "Candidata 6",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Engenheira de Software",
+    "bio": "Candidata 6"
+  },
+  {
+    "name": "Candidata 7",
+    "linkedin": "http://google.com",
+    "github": "http://google.com",
+    "emai": "none@none.com",
+    "area": "Devops/Devsecops",
+    "bio": "Candidata 7"
+  }
+]
