@@ -1,5 +1,7 @@
 # MEGAHACK WOMEN 2020 - PROJETO TRILHA
 
+Esta soluçao foi desenvolvida com os ensinamentos aprendidos durante a NLW 2a ediçao - #https://github.com/rocketseat-education/nlw-02-omnistack
+
 Soluçao desenvolvida em ReactJS e TypeScript buscando solucionar o problema trazido pela empresa Vtex:
 
 *"O desafio da inclusão é um obstáculo a ser vencido. Para isso, convidamos você a pensar em como conseguimos usar a própria tecnologia e criar formas de atrair e auxiliar na integração de mulheres no mercado de tecnologia e diminuir as diferenças de gênero no setor."*
