@@ -12,7 +12,7 @@ function CompanyList() {
       <main>
         <ul>
           {db.map((prova) => (
-            <a className="card" href={prova.teste}>
+            <a className="card-company" href={prova.teste}>
               <article>
                 <h3 className="titulo">{prova.title}</h3>
               </article>
