@@ -130,7 +130,7 @@ function CandidateForm() {
             />
           </fieldset>
           <fieldset>
-            <legend>Adquira mais funcinalidades ao seu plano atual</legend>
+            <legend>Contribua para o crescimento da nossa  plataforma e ganhe vantagens!</legend>
           </fieldset>
 
           <footer>
