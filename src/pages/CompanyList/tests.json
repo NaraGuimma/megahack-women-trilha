@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "title": "Desenvolvedora Front-end",
+    "title": "Desenvolvedora Back-end",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
   },
   {
@@ -16,27 +16,32 @@
   },
   {
     "id": 4,
-    "title": "Desenvolvedora Front-end",
+    "title": "Analista de dados",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
   },
   {
     "id": 5,
-    "title": "Desenvolvedora Front-end",
+    "title": "UX/UI",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
   },
   {
     "id": 6,
-    "title": "Desenvolvedora Front-end",
+    "title": "Cloud Computing",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
   },
   {
     "id": 7,
-    "title": "Analista de Sistema",
+    "title": "DevOps/ DevSecOps",
+    "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
+  },
+  {
+    "id": 8,
+    "title": "Analista de sistemas",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
   },
   {
     "id": 8,
     "title": "Engenheira de Software",
     "teste": "https://docs.google.com/forms/d/e/1FAIpQLSdjdd_Oo-IuB8uspc1WHngZOjagf_EKNcNjfFfFL9mv3VpDrQ/viewform?usp=sf_link"
-  }
+  }  
 ]
