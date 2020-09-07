@@ -146,7 +146,7 @@ ul {
   grid-gap: 16px;
 }
 
-.card {
+.card-company {
   display: block;
   max-width: 314px;
   margin: auto;
@@ -161,7 +161,7 @@ ul {
   overflow: hidden;
 }
 
-.card:after {
+.card-company:after {
   content: '';
   position: absolute;
   top: 0;
@@ -174,7 +174,7 @@ ul {
   transition: 0.3s;
 }
 
-.card .titulo {
+.card-company .titulo {
   opacity: 0;
   transition: 0.3s;
   position: absolute;
@@ -185,7 +185,7 @@ ul {
   font-weight: bold;
 }
 
-.card:hover .titulo,
+.card-company:hover .titulo,
 .card:hover:after {
   opacity: 1;
 }
