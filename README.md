@@ -19,9 +19,9 @@ o deploy da aplicaçao pode ser encontrado em: https://megahack-women-trilha.ver
 
 vídeo demo: https://www.youtube.com/watch?v=gw1ghisLWJQ
 
-vídeo pitch: 
+vídeo pitch: https://www.youtube.com/watch?v=yUpFVEDi0Qk 
 
-Nossa apresentaçao em pdf está no presente repositório intitulada #TRILHA
+Nossa apresentaçao em pdf está no presente repositório intitulada **TRILHA**
 
 
 Integrantes:
@@ -37,13 +37,13 @@ Integrantes:
 
 (*OBS:As referências aqui listadas foram consultadas entre os dias 28/08/2020 e 05/09/2020*)
 
-1 - https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18320-quantidade-de-homens-e-mulheres.html#:~:text=Segundo%20dados%20da%20PNAD%20Cont%C3%ADnu,51%2C8%25%20de%20mulheres
-2 - https://tiinside.com.br/19/03/2019/mulheres-sao-apenas-8-em-tecnologia/
-3 - https://www.bbc.com/portuguese/curiosidades-46705305
-4 - https://vocesa.abril.com.br/geral/por-que-as-mulheres-tendem-a-ser-mais-inseguras-do-que-homens-no-trabalho/
-5 - https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/04/23/interna_tecnologia,750829/mulheres-ocupam-apenas-25-dos-empregos-de-ti-no-pais.shtml
-6 - https://leftronic.com/women-in-technology-statistics/
-7 - https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf
-8 - https://www.women-in-technology.com/wintec-blog/women-in-tech-by-country
+1 - https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18320-quantidade-de-homens-e-mulheres.html#:~:text=Segundo%20dados%20da%20PNAD%20Cont%C3%ADnu,51%2C8%25%20de%20mulheres<br>
+2 - https://tiinside.com.br/19/03/2019/mulheres-sao-apenas-8-em-tecnologia/<br>
+3 - https://www.bbc.com/portuguese/curiosidades-46705305<br>
+4 - https://vocesa.abril.com.br/geral/por-que-as-mulheres-tendem-a-ser-mais-inseguras-do-que-homens-no-trabalho/<br>
+5 - https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/04/23/interna_tecnologia,750829/mulheres-ocupam-apenas-25-dos-empregos-de-ti-no-pais.shtml<br>
+6 - https://leftronic.com/women-in-technology-statistics/<br>
+7 - https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf<br>
+8 - https://www.women-in-technology.com/wintec-blog/women-in-tech-by-country<br>
 9 - https://www.pwc.co.uk/women-in-technology/women-in-tech-report.pdf
 10 - https://www.statista.com/chart/4467/female-employees-at-tech-companies/
