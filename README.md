@@ -7,17 +7,17 @@ Soluçao desenvolvida em ReactJS e TypeScript buscando solucionar o problema tra
 *"O desafio da inclusão é um obstáculo a ser vencido. Para isso, convidamos você a pensar em como conseguimos usar a própria tecnologia e criar formas de atrair e auxiliar na integração de mulheres no mercado de tecnologia e diminuir as diferenças de gênero no setor."*
 Alguns dos dados encontrados nos chocaram, como este da GAFAM com as principais empresas de tecnologia, e mesmo nelas o percentual ainda é inferior ao dos homens, sendo que especificamente na área de tecnologia elas nao passam de 23%. Esses sao dados de fevereiro de 2020. (Ref. 10)
 
-<div style="text-align:center"><img src="https://github.com/NaraGuimma/megahack-women-trilha/blob/master/statistica%2C%20Fev%202020.png" /></div>
+<p align="center"><img src="https://github.com/NaraGuimma/megahack-women-trilha/blob/master/statistica%2C%20Fev%202020.png" /></p>
 
 
 
 # Nossa soluçao
 
 
-<div style="text-align:center"><img src="https://github.com/NaraGuimma/megahack-women-trilha/blob/master/index.html.png" /></div>
+<p align="center"><img src="https://github.com/NaraGuimma/megahack-women-trilha/blob/master/index.html.png" /></p>
 
 
-
+<br>
 o deploy da aplicaçao pode ser encontrado em: https://megahack-women-trilha.vercel.app/
 
 vídeo demo: https://www.youtube.com/watch?v=gw1ghisLWJQ
