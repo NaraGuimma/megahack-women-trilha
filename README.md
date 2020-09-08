@@ -18,11 +18,12 @@ Alguns dos dados encontrados nos chocaram, como este da GAFAM com as principais 
 
 
 <br>
-o deploy da aplicaçao pode ser encontrado em: https://megahack-women-trilha.vercel.app/
 
-vídeo demo: https://www.youtube.com/watch?v=gw1ghisLWJQ
+o deploy da aplicaçao pode ser encontrado em: https://megahack-women-trilha.vercel.app/<br>
 
-vídeo pitch: https://www.youtube.com/watch?v=yUpFVEDi0Qk 
+vídeo demo: https://www.youtube.com/watch?v=gw1ghisLWJQ<br>
+
+vídeo pitch: https://www.youtube.com/watch?v=yUpFVEDi0Qk <br>
 
 Nossa apresentaçao em pdf está no presente repositório intitulada **TRILHA**
 
